@@ -1,0 +1,194 @@
+country_x,date,daily_vaccinations_x,country_y,daily_vaccinations_y,country_x,daily_vaccinations_x,country_y,daily_vaccinations_y
+England,2020-12-29,0.0,Scotland,3233.0,0,0.0,0,0.0
+England,2020-12-30,114086.0,Scotland,2891.0,0,0.0,0,0.0
+England,2020-12-31,104448.0,Scotland,3090.0,0,0.0,0,0.0
+England,2021-01-01,78247.0,Scotland,3093.0,0,0.0,0,0.0
+England,2021-01-02,67361.0,Scotland,3094.0,0,0.0,0,0.0
+England,2021-01-03,57920.0,Scotland,3077.0,Wales,0.0,Northern Ireland,0.0
+England,2021-01-04,54426.0,Scotland,3060.0,Wales,5048.0,Northern Ireland,7143.0
+England,2021-01-05,61727.0,Scotland,3343.0,Wales,5048.0,Northern Ireland,7143.0
+England,2021-01-06,69769.0,Scotland,3795.0,Wales,5048.0,Northern Ireland,7143.0
+England,2021-01-07,96548.0,Scotland,4788.0,Wales,5048.0,Northern Ireland,7143.0
+England,2021-01-08,137058.0,Scotland,6468.0,Wales,5048.0,Northern Ireland,7143.0
+England,2021-01-09,149645.0,Scotland,6779.0,Wales,5048.0,Northern Ireland,7143.0
+England,2021-01-10,164310.0,Scotland,7044.0,Wales,5048.0,Northern Ireland,7143.0
+England,2021-01-11,179094.0,Scotland,8623.0,Wales,5072.0,Northern Ireland,7197.0
+England,2021-01-12,190824.0,Scotland,9573.0,Wales,5800.0,Northern Ireland,7574.0
+England,2021-01-13,201938.0,Scotland,10372.0,Wales,6738.0,Northern Ireland,8332.0
+England,2021-01-14,201564.0,Scotland,11173.0,Wales,7933.0,Northern Ireland,9044.0
+England,2021-01-15,203749.0,Scotland,11956.0,Wales,8423.0,Northern Ireland,8530.0
+England,2021-01-16,225806.0,Scotland,14265.0,Wales,8913.0,Northern Ireland,7964.0
+England,2021-01-17,230525.0,Scotland,14651.0,Wales,9403.0,Northern Ireland,7826.0
+England,2021-01-18,234877.0,Scotland,15667.0,Wales,10123.0,Northern Ireland,7852.0
+England,2021-01-19,251122.0,Scotland,17018.0,Wales,10672.0,Northern Ireland,7306.0
+England,2021-01-20,261507.0,Scotland,18277.0,Wales,11105.0,Northern Ireland,6404.0
+England,2021-01-21,272972.0,Scotland,19282.0,Wales,12318.0,Northern Ireland,5674.0
+England,2021-01-22,287384.0,Scotland,20060.0,Wales,15148.0,Northern Ireland,5664.0
+England,2021-01-23,311226.0,Scotland,20803.0,Wales,17371.0,Northern Ireland,5396.0
+England,2021-01-24,317419.0,Scotland,21750.0,Wales,17063.0,Northern Ireland,5089.0
+England,2021-01-25,326745.0,Scotland,22213.0,Wales,18279.0,Northern Ireland,4525.0
+England,2021-01-26,320880.0,Scotland,22087.0,Wales,19537.0,Northern Ireland,4379.0
+England,2021-01-27,311182.0,Scotland,22729.0,Wales,20845.0,Northern Ireland,4668.0
+England,2021-01-28,308977.0,Scotland,22830.0,Wales,21463.0,Northern Ireland,6665.0
+England,2021-01-29,310733.0,Scotland,23593.0,Wales,19705.0,Northern Ireland,7312.0
+England,2021-01-30,325853.0,Scotland,23520.0,Wales,19885.0,Northern Ireland,8656.0
+England,2021-01-31,339126.0,Scotland,23258.0,Wales,20824.0,Northern Ireland,9152.0
+England,2021-02-01,345688.0,Scotland,25023.0,Wales,21508.0,Northern Ireland,10314.0
+England,2021-02-02,351581.0,Scotland,27047.0,Wales,21530.0,Northern Ireland,11539.0
+England,2021-02-03,369879.0,Scotland,29277.0,Wales,22149.0,Northern Ireland,12866.0
+England,2021-02-04,376532.0,Scotland,32727.0,Wales,23101.0,Northern Ireland,11583.0
+England,2021-02-05,371631.0,Scotland,35107.0,Wales,25788.0,Northern Ireland,12601.0
+England,2021-02-06,358628.0,Scotland,39398.0,Wales,26854.0,Northern Ireland,12028.0
+England,2021-02-07,349729.0,Scotland,41967.0,Wales,27089.0,Northern Ireland,12074.0
+England,2021-02-08,345669.0,Scotland,45894.0,Wales,27364.0,Northern Ireland,12412.0
+England,2021-02-09,347421.0,Scotland,48631.0,Wales,27921.0,Northern Ireland,12801.0
+England,2021-02-10,341974.0,Scotland,51223.0,Wales,28015.0,Northern Ireland,13231.0
+England,2021-02-11,342023.0,Scotland,53593.0,Wales,27897.0,Northern Ireland,14384.0
+England,2021-02-12,347321.0,Scotland,55814.0,Wales,27743.0,Northern Ireland,14327.0
+England,2021-02-13,343430.0,Scotland,55458.0,Wales,26285.0,Northern Ireland,13851.0
+England,2021-02-14,337467.0,Scotland,56025.0,Wales,26206.0,Northern Ireland,13615.0
+England,2021-02-15,332885.0,Scotland,52109.0,Wales,24418.0,Northern Ireland,13359.0
+England,2021-02-16,333166.0,Scotland,48864.0,Wales,23033.0,Northern Ireland,12322.0
+England,2021-02-17,345184.0,Scotland,45313.0,Wales,22012.0,Northern Ireland,10812.0
+England,2021-02-18,346533.0,Scotland,41139.0,Wales,20649.0,Northern Ireland,9223.0
+England,2021-02-19,330396.0,Scotland,36952.0,Wales,18891.0,Northern Ireland,8137.0
+England,2021-02-20,312804.0,Scotland,32767.0,Wales,17376.0,Northern Ireland,8739.0
+England,2021-02-21,302554.0,Scotland,30448.0,Wales,16398.0,Northern Ireland,8940.0
+England,2021-02-22,293813.0,Scotland,29043.0,Wales,16601.0,Northern Ireland,8643.0
+England,2021-02-23,290768.0,Scotland,28245.0,Wales,16778.0,Northern Ireland,8842.0
+England,2021-02-24,288492.0,Scotland,27644.0,Wales,16735.0,Northern Ireland,9378.0
+England,2021-02-25,295272.0,Scotland,27586.0,Wales,16843.0,Northern Ireland,10080.0
+England,2021-02-26,315458.0,Scotland,28031.0,Wales,17069.0,Northern Ireland,10661.0
+England,2021-02-27,326659.0,Scotland,28969.0,Wales,17452.0,Northern Ireland,10345.0
+England,2021-02-28,334461.0,Scotland,29659.0,Wales,17784.0,Northern Ireland,9967.0
+England,2021-03-01,336288.0,Scotland,30052.0,Wales,17974.0,Northern Ireland,10508.0
+England,2021-03-02,324072.0,Scotland,30890.0,Wales,18430.0,Northern Ireland,10472.0
+England,2021-03-03,304623.0,Scotland,30861.0,Wales,18838.0,Northern Ireland,10519.0
+England,2021-03-04,292788.0,Scotland,31086.0,Wales,19924.0,Northern Ireland,10387.0
+England,2021-03-05,286204.0,Scotland,30803.0,Wales,20885.0,Northern Ireland,10146.0
+England,2021-03-06,288826.0,Scotland,29353.0,Wales,21584.0,Northern Ireland,10212.0
+England,2021-03-07,285726.0,Scotland,28993.0,Wales,21792.0,Northern Ireland,10437.0
+England,2021-03-08,290629.0,Scotland,27751.0,Wales,22031.0,Northern Ireland,9766.0
+England,2021-03-09,293388.0,Scotland,26784.0,Wales,22687.0,Northern Ireland,9307.0
+England,2021-03-10,293770.0,Scotland,25510.0,Wales,23580.0,Northern Ireland,8398.0
+England,2021-03-11,281719.0,Scotland,24025.0,Wales,24612.0,Northern Ireland,7747.0
+England,2021-03-12,275621.0,Scotland,23632.0,Wales,26110.0,Northern Ireland,7457.0
+England,2021-03-13,288616.0,Scotland,24722.0,Wales,28540.0,Northern Ireland,7494.0
+England,2021-03-14,301209.0,Scotland,25364.0,Wales,29307.0,Northern Ireland,7492.0
+England,2021-03-15,323384.0,Scotland,28762.0,Wales,30490.0,Northern Ireland,7306.0
+England,2021-03-16,352737.0,Scotland,31683.0,Wales,31547.0,Northern Ireland,8103.0
+England,2021-03-17,382165.0,Scotland,35410.0,Wales,32646.0,Northern Ireland,8250.0
+England,2021-03-18,421451.0,Scotland,39121.0,Wales,32705.0,Northern Ireland,8894.0
+England,2021-03-19,458021.0,Scotland,42668.0,Wales,32429.0,Northern Ireland,9539.0
+England,2021-03-20,495249.0,Scotland,45199.0,Wales,32405.0,Northern Ireland,9807.0
+England,2021-03-21,507875.0,Scotland,48080.0,Wales,33151.0,Northern Ireland,13159.0
+England,2021-03-22,505624.0,Scotland,47992.0,Wales,32678.0,Northern Ireland,13057.0
+England,2021-03-23,501259.0,Scotland,47881.0,Wales,31906.0,Northern Ireland,12339.0
+England,2021-03-24,501290.0,Scotland,47692.0,Wales,30631.0,Northern Ireland,13550.0
+England,2021-03-25,487031.0,Scotland,47822.0,Wales,29744.0,Northern Ireland,14146.0
+England,2021-03-26,481138.0,Scotland,47353.0,Wales,29248.0,Northern Ireland,14475.0
+England,2021-03-27,454260.0,Scotland,48321.0,Wales,28931.0,Northern Ireland,14827.0
+England,2021-03-28,461928.0,Scotland,47822.0,Wales,28338.0,Northern Ireland,11325.0
+England,2021-03-29,458605.0,Scotland,47976.0,Wales,28018.0,Northern Ireland,12727.0
+England,2021-03-30,459561.0,Scotland,48397.0,Wales,27906.0,Northern Ireland,13783.0
+England,2021-03-31,466118.0,Scotland,49063.0,Wales,27777.0,Northern Ireland,13361.0
+England,2021-04-01,477283.0,Scotland,46806.0,Wales,27053.0,Northern Ireland,13307.0
+England,2021-04-02,432863.0,Scotland,45330.0,Wales,24284.0,Northern Ireland,13270.0
+England,2021-04-03,384819.0,Scotland,43074.0,Wales,21296.0,Northern Ireland,12793.0
+England,2021-04-04,340055.0,Scotland,39915.0,Wales,20063.0,Northern Ireland,12609.0
+England,2021-04-05,304362.0,Scotland,36488.0,Wales,17817.0,Northern Ireland,11160.0
+England,2021-04-06,276772.0,Scotland,33647.0,Wales,16156.0,Northern Ireland,10169.0
+England,2021-04-07,262688.0,Scotland,30974.0,Wales,15868.0,Northern Ireland,10202.0
+England,2021-04-08,251880.0,Scotland,31443.0,Wales,16398.0,Northern Ireland,9909.0
+England,2021-04-09,277944.0,Scotland,32056.0,Wales,18529.0,Northern Ireland,10095.0
+England,2021-04-10,317812.0,Scotland,31651.0,Wales,21230.0,Northern Ireland,10722.0
+England,2021-04-11,336519.0,Scotland,33892.0,Wales,22571.0,Northern Ireland,11737.0
+England,2021-04-12,353339.0,Scotland,35177.0,Wales,25384.0,Northern Ireland,13071.0
+England,2021-04-13,364814.0,Scotland,36603.0,Wales,27466.0,Northern Ireland,14771.0
+England,2021-04-14,356285.0,Scotland,37351.0,Wales,27919.0,Northern Ireland,15483.0
+England,2021-04-15,355977.0,Scotland,37208.0,Wales,28025.0,Northern Ireland,16108.0
+England,2021-04-16,367666.0,Scotland,36268.0,Wales,28045.0,Northern Ireland,16511.0
+England,2021-04-17,376163.0,Scotland,36600.0,Wales,26975.0,Northern Ireland,16287.0
+England,2021-04-18,385879.0,Scotland,35130.0,Wales,25603.0,Northern Ireland,15917.0
+England,2021-04-19,401464.0,Scotland,37070.0,Wales,24263.0,Northern Ireland,15779.0
+England,2021-04-20,410137.0,Scotland,38691.0,Wales,23487.0,Northern Ireland,16096.0
+England,2021-04-21,418848.0,Scotland,40391.0,Wales,23311.0,Northern Ireland,16300.0
+England,2021-04-22,417858.0,Scotland,42395.0,Wales,23456.0,Northern Ireland,17225.0
+England,2021-04-23,411215.0,Scotland,44098.0,Wales,23772.0,Northern Ireland,16932.0
+England,2021-04-24,415771.0,Scotland,47271.0,Wales,24125.0,Northern Ireland,17040.0
+England,2021-04-25,419153.0,Scotland,48238.0,Wales,24520.0,Northern Ireland,17450.0
+England,2021-04-26,421514.0,Scotland,48219.0,Wales,25210.0,Northern Ireland,17554.0
+England,2021-04-27,427355.0,Scotland,47528.0,Wales,25853.0,Northern Ireland,17183.0
+England,2021-04-28,436645.0,Scotland,46862.0,Wales,26569.0,Northern Ireland,16747.0
+England,2021-04-29,444695.0,Scotland,45629.0,Wales,26265.0,Northern Ireland,17673.0
+England,2021-04-30,441170.0,Scotland,45345.0,Wales,26201.0,Northern Ireland,16770.0
+England,2021-05-01,419731.0,Scotland,43124.0,Wales,24110.0,Northern Ireland,16675.0
+England,2021-05-02,408221.0,Scotland,44154.0,Wales,23680.0,Northern Ireland,16488.0
+England,2021-05-03,385599.0,Scotland,42423.0,Wales,21497.0,Northern Ireland,15127.0
+England,2021-05-04,373059.0,Scotland,41113.0,Wales,20060.0,Northern Ireland,14566.0
+England,2021-05-05,367179.0,Scotland,39927.0,Wales,19172.0,Northern Ireland,14848.0
+England,2021-05-06,369294.0,Scotland,39118.0,Wales,18768.0,Northern Ireland,13136.0
+England,2021-05-07,375740.0,Scotland,36997.0,Wales,18412.0,Northern Ireland,13660.0
+England,2021-05-08,388415.0,Scotland,35836.0,Wales,20075.0,Northern Ireland,13681.0
+England,2021-05-09,392054.0,Scotland,34700.0,Wales,21216.0,Northern Ireland,13606.0
+England,2021-05-10,407759.0,Scotland,36252.0,Wales,23742.0,Northern Ireland,14792.0
+England,2021-05-11,421549.0,Scotland,36397.0,Wales,24124.0,Northern Ireland,14848.0
+England,2021-05-12,434851.0,Scotland,36940.0,Wales,24326.0,Northern Ireland,14133.0
+England,2021-05-13,439372.0,Scotland,37212.0,Wales,24473.0,Northern Ireland,13315.0
+England,2021-05-14,440691.0,Scotland,38382.0,Wales,24427.0,Northern Ireland,12964.0
+England,2021-05-15,443293.0,Scotland,39299.0,Wales,24272.0,Northern Ireland,12559.0
+England,2021-05-16,447515.0,Scotland,39982.0,Wales,23436.0,Northern Ireland,12385.0
+England,2021-05-17,451452.0,Scotland,39864.0,Wales,22857.0,Northern Ireland,11846.0
+England,2021-05-18,453805.0,Scotland,40040.0,Wales,22849.0,Northern Ireland,11158.0
+England,2021-05-19,453168.0,Scotland,40887.0,Wales,22428.0,Northern Ireland,10972.0
+England,2021-05-20,460238.0,Scotland,41424.0,Wales,22431.0,Northern Ireland,10682.0
+England,2021-05-21,464807.0,Scotland,41920.0,Wales,21984.0,Northern Ireland,10760.0
+England,2021-05-22,482884.0,Scotland,42340.0,Wales,22528.0,Northern Ireland,10831.0
+England,2021-05-23,491250.0,Scotland,42828.0,Wales,22530.0,Northern Ireland,11037.0
+England,2021-05-24,502503.0,Scotland,43566.0,Wales,23061.0,Northern Ireland,11309.0
+England,2021-05-25,511167.0,Scotland,44824.0,Wales,23616.0,Northern Ireland,11693.0
+England,2021-05-26,515433.0,Scotland,44482.0,Wales,23991.0,Northern Ireland,11637.0
+England,2021-05-27,514804.0,Scotland,45109.0,Wales,24265.0,Northern Ireland,11658.0
+England,2021-05-28,513662.0,Scotland,45412.0,Wales,24632.0,Northern Ireland,11281.0
+England,2021-05-29,492379.0,Scotland,45613.0,Wales,22975.0,Northern Ireland,11164.0
+England,2021-05-30,486217.0,Scotland,45895.0,Wales,22442.0,Northern Ireland,10822.0
+England,2021-05-31,464855.0,Scotland,46134.0,Wales,20160.0,Northern Ireland,10414.0
+England,2021-06-01,446346.0,Scotland,46128.0,Wales,20061.0,Northern Ireland,10878.0
+England,2021-06-02,424455.0,Scotland,46620.0,Wales,20060.0,Northern Ireland,12021.0
+England,2021-06-03,406357.0,Scotland,47074.0,Wales,20237.0,Northern Ireland,12102.0
+England,2021-06-04,394423.0,Scotland,47744.0,Wales,20786.0,Northern Ireland,12468.0
+England,2021-06-05,402046.0,Scotland,48033.0,Wales,23371.0,Northern Ireland,12631.0
+England,2021-06-06,407542.0,Scotland,48884.0,Wales,24669.0,Northern Ireland,12996.0
+England,2021-06-07,422989.0,Scotland,49078.0,Wales,27195.0,Northern Ireland,13453.0
+England,2021-06-08,423957.0,Scotland,49098.0,Wales,27334.0,Northern Ireland,12784.0
+England,2021-06-09,421388.0,Scotland,48995.0,Wales,27274.0,Northern Ireland,11378.0
+England,2021-06-10,414421.0,Scotland,48248.0,Wales,26752.0,Northern Ireland,11149.0
+England,2021-06-11,408255.0,Scotland,47384.0,Wales,25985.0,Northern Ireland,11483.0
+England,2021-06-12,396014.0,Scotland,47120.0,Wales,24872.0,Northern Ireland,10461.0
+England,2021-06-13,390329.0,Scotland,46703.0,Wales,23997.0,Northern Ireland,10035.0
+England,2021-06-14,383918.0,Scotland,45082.0,Wales,24713.0,Northern Ireland,9128.0
+England,2021-06-15,379430.0,Scotland,44139.0,Wales,24618.0,Northern Ireland,10428.0
+England,2021-06-16,371908.0,Scotland,43056.0,Wales,24244.0,Northern Ireland,10489.0
+England,2021-06-17,367797.0,Scotland,41876.0,Wales,23474.0,Northern Ireland,10493.0
+England,2021-06-18,357725.0,Scotland,40928.0,Wales,22611.0,Northern Ireland,9960.0
+England,2021-06-19,350022.0,Scotland,39873.0,Wales,22025.0,Northern Ireland,11031.0
+England,2021-06-20,341951.0,Scotland,38558.0,Wales,22087.0,Northern Ireland,11455.0
+0,2020-12-10,0.0,Scotland,0.0,0,0.0,0,0.0
+0,2020-12-11,0.0,Scotland,5265.0,0,0.0,0,0.0
+0,2020-12-12,0.0,Scotland,3692.0,0,0.0,0,0.0
+0,2020-12-13,0.0,Scotland,2831.0,0,0.0,0,0.0
+0,2020-12-14,0.0,Scotland,3543.0,0,0.0,0,0.0
+0,2020-12-15,0.0,Scotland,4296.0,0,0.0,0,0.0
+0,2020-12-16,0.0,Scotland,4770.0,0,0.0,0,0.0
+0,2020-12-17,0.0,Scotland,5096.0,0,0.0,0,0.0
+0,2020-12-18,0.0,Scotland,5552.0,0,0.0,0,0.0
+0,2020-12-19,0.0,Scotland,5727.0,0,0.0,0,0.0
+0,2020-12-20,0.0,Scotland,5929.0,0,0.0,0,0.0
+0,2020-12-21,0.0,Scotland,6479.0,0,0.0,0,0.0
+0,2020-12-22,0.0,Scotland,7113.0,0,0.0,0,0.0
+0,2020-12-23,0.0,Scotland,7533.0,0,0.0,0,0.0
+0,2020-12-24,0.0,Scotland,6928.0,0,0.0,0,0.0
+0,2020-12-25,0.0,Scotland,5721.0,0,0.0,0,0.0
+0,2020-12-26,0.0,Scotland,5244.0,0,0.0,0,0.0
+0,2020-12-27,0.0,Scotland,4951.0,0,0.0,0,0.0
+0,2020-12-28,0.0,Scotland,3836.0,0,0.0,0,0.0
