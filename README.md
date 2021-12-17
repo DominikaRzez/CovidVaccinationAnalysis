@@ -1,1 +1,5 @@
 # Project1_CovidVaccinationAnalysis
+
+# Introduction
+
+The Covid-19 is a deadly disease that were initially found by the end of December 2019 in Wuhan, China. The infection case quickly emerge in the rest of world and spread to individuals and other species with close physical connection due to its strong infectious property. Until 15th December 2021, the total number of confirmed case is 271,501,910 while the cumulative death is 5,321,328 \footnote{See data and Dashboard provided by John Hoskins University (https://coronavirus.jhu.edu/map.html) }. In response to the negative impacts of the virus to our health condition, there are several government policies have applied including temporary lock-down of cities with booming infectious cases, PCR test,International Travel Health Certificate and compulsory vaccinations plans to prevent infections through travel and local spillovers.  
