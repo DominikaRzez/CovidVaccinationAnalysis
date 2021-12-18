@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Python libraries used to complete the project:
 pandas
 matplotlib
@@ -5,3 +6,12 @@ numpy
 scipy.stats
 geopandas
 warnings
+=======
+Python libraries used to complete the project:
+pandas
+matplotlib
+numpy
+scipy.stats
+geopandas
+warnings
+>>>>>>> 64a6c13570a991e4d1b3a9a57fe4aeccd23b3896
