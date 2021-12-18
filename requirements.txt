@@ -1,0 +1,7 @@
+Python libraries used to complete the project:
+pandas
+matplotlib
+numpy
+scipy.stats
+geopandas
+warnings
