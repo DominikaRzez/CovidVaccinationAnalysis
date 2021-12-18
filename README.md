@@ -31,6 +31,8 @@ A variety of Python libraries was used throughout the project. Most of the work 
 <br><h4>How infectious is COVID-19? Are our econometric results statistically significant?</h4>
 <img src=https://github.com/DominikaRzez/Project1_CovidVaccinationAnalysis/blob/main/images/Regression1.png?raw=true>
 <small>Figure 3 Linear regression between daily cases in 7days and daily deaths</small>
+<img src=https://github.com/DominikaRzez/Project1_CovidVaccinationAnalysis/blob/main/images/Regression2.png?raw=true>
+<small>Figure 4 Linear regression between daily cases in 14days and daily deaths</small>
 <br>
 <br><p>According to the regression analysis results displayed in figure 2, each confirmed case can cause between 8 to 9 deaths after 7 days or around 12 deaths after 14 days. The T-test shows the p-value is less than 0.005 suggesting population sample of case confirmed and population of death are different groups of dataset statistically. With Adjust R-square value equal approximately 0.73 and 0.57 for two regressions in slides 10, we find that COVID-19 case to be confirmed 7 or 14 days ago may explain 73% or 57% of the reason for people’s death afterwards.</p>
 <h4>Which countries are the most efficient in distributing the COVID vaccination programme?</h4>
