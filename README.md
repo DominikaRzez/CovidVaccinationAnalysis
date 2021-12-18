@@ -16,4 +16,10 @@ The following git hub repository contains following files:
 </ul>
 
 <h2>Methodology</h2>
+<p>The analysis was conducted fully using Python and was based on two datasets – ‘Country Vaccination’ and ‘Worldometer Coronavirus Daily Data’. During the analysis some of the datasets’ limitations and disparities were identified. The first dataset splits the United Kingdom into constituent countries and provides specific data for each of them. To maintain the precision and relevancy of the comparison, some manipulation was necessary. A separate data frame was created for each country and then merged on date to create a combined dataset for the United Kingdom with the ability to still view the change over time. 
+A variety of Python libraries was used throughout the project. Most of the work was done using Pandas, Matpolotlib and Geopandas. The Pandas library was used for displaying and cleaning the dataset, identifying and pulling out relevant data, creating new data frames and merging the existing ones. Once the summary statistics were generated, the visualisations were created using Matplotlib and Geopandas.</p>
+<h2>Results</h2>
+<h3>Global Overview</h3>
+<h4>Is COVID-19 a deadly disease? Would it be an infectious disease in a short-time period? </h4>
+
 
