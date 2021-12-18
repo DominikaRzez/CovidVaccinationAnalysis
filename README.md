@@ -57,7 +57,7 @@ Towards the lower end of the vaccination rate global rankings, a large proportio
 <br>
 <br><p>Unfortunately, cases and death numbers gradually inclined between months October 2020 to December 2020, as evident by the steep progress in figures 6 and 7. A top record of daily cases topped 54000 in January 2021 and deaths peaking to 1000!
 The panic squandered within the public and it was January 2021 where the PM announced the second national lockdown in the UK. The national lockdown massively helped with the new numbers of daily cases decreasing to 2000 in April 2021. Alongside this the contributions of the vaccines also helped with 200,000 daily vaccinations being rolled out in January 2021 alone as shown as a peak in figure 8.</p>
-<b>Where is the image? It is not within the codes on github?</b>
+<img src=https://github.com/DominikaRzez/Project1_CovidVaccinationAnalysis/blob/main/images/daily_vaccination_by_country.png?raw=true>
 <small>Figure 8. Daily vaccinations by country</small>
 <br>
 <br><h4>How did the Kenya do during the COVID-19 pandemic from March 2020 to November 2021? </h4>
